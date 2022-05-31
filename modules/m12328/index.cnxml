@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: A</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8d3b4249-d561-45f4-b141-933b9cc6aaa7</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Abandoned_Baby">Abandoned (Abandoned Baby) [Bullish Reversal Candlestick]</link></item>
+
+  <item><link target-id="Price_Action">Action  (Price or Market Action)</link></item>
+</list>
+    </para> 
+
+<section id="Abandoned_Baby">
+ <title>Abandoned (Abandoned Baby) [Bullish Reversal Candlestick]</title> 
+    <para id="para_Abandoned_Baby">
+       <!-- Insert module text here -->
+An abandoned baby is a small doji with a gap down at the bottom of a move with a  confirmation gap up on next bar.
+    </para> 
+
+ <figure id="figure_Abandoned_Baby">
+	    <title>An abandoned baby</title>
+	    <media id="idm8540240" alt=""><image src="http://cnx.rice.edu/Members/boursenovice/abandoned_baby_candlestick.gif" mime-type="image/gif"/></media>
+	    <caption>An abandoned Baby is interpreted by traders as a very bullish reversal pattern.</caption>
+	  </figure>
+
+</section>
+  
+
+<section id="Price_Action">
+ <title>Action (Price or Market Action)</title> 
+    <para id="para_Price_Action">
+       <!-- Insert module text here -->
+
+    </para> 
+<para id="link_from_Price_Action">
+See <link document="m12331" target-id="Bar">Bar (Up, Down, Inside, Outside Bar)</link>
+</para>
+</section>
+  
+  </content>
+  
+</document>

@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: O</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7c081bd5-694c-41d4-b773-7debf3e4c34c</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Outside_Bar">Outside (Outside Bar)</link></item>
+</list>
+    </para> 
+
+<section id="Outside_Bar">
+ <title>Outside Bar</title> 
+    <para id="para_Outside_Bar">
+       <!-- Insert module text here -->
+An outside bar has a greater range relatively to the previous bar's range: its High is higher (HH: higher High) than the previous bar's High and its Low is lower (LL: Lower Low) than the previous bar's Low.
+    </para> 
+<para id="synonym_Outside_Bar">
+Synonym of <link document="m12330" target-id="Engulfing_Bar">Engulfing Bar</link>
+</para>
+</section>
+
+
+
+
+  
+  </content>
+  
+</document>

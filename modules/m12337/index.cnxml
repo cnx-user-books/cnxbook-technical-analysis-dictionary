@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Analyse Technique :: P</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9519807c-8648-4e2a-99ec-6f8531075503</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Pivot">Pivot (Pivots points)</link></item>
+  <item><link target-id="Pivot">Pivot (Pivot day)</link></item>
+
+</list>
+    </para> 
+
+<section id="Pivots_points">
+ <title>Pivot (Points pivots)</title> 
+    <para id="para_Pivots_points">
+       <!-- Insert module text here -->
+    </para>
+
+<definition id="Pivot">
+	  <term>Pivot</term>
+	  <meaning id="idm6681776">(haut + bas + clôture ) / 3</meaning>
+</definition>
+
+<definition id="Pivot_First_Resistance">
+	  <term>Première résistance</term>
+	  <meaning id="idp1679280">(2 * Pivot) - Bas</meaning>
+</definition>
+
+
+<definition id="Pivot_First_Support">
+	  <term>Premier Support</term>
+	  <meaning id="idm100896">(2 * Pivot) - Haut</meaning>
+</definition>
+
+<definition id="Pivot_Second_Resistance">
+	  <term>Seconde Resistance</term>
+	  <meaning id="idp125760">Pivot - Premier Support + Première résistance </meaning>
+</definition>
+
+<definition id="Pivot_Second_Support">
+	  <term>Second Support</term>
+	  <meaning id="idm471104">Pivot - Première résistance + Premier Support</meaning>
+</definition>
+
+
+</section>
+
+<section id="Pivot_day">
+ <title>Pivot (Journée Pivot)</title> 
+    <para id="para_Pivot_day">
+       <!-- Insert module text here -->
+
+    </para> 
+</section>
+
+
+
+
+  
+  </content>
+  
+</document>

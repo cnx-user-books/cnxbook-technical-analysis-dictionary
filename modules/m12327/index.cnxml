@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: C</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5de6c851-0beb-4667-a1de-2fa420238b1a</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Candlestick">Candlestick</link></item>
+  <item><link target-id="Chart_patterns">Chart patterns</link></item>
+  <item><link target-id="Consolidation">Consolidation</link></item>
+  <item><link target-id="Correction">Correction</link></item>
+  <item><link target-id="Harami_Cross">Cross (Harami Cross)</link></item>
+</list>
+    </para> 
+<section id="Candlestick">
+ <title>Candlestick</title> 
+    <para id="para_Candlestick">
+       <!-- Insert module text here -->
+Definition of candlestick
+    </para> 
+</section>
+
+<section id="Chart_patterns">
+ <title>Chart patterns</title> 
+    <para id="para_Chart_patterns">
+       <!-- Insert module text here -->
+Definition of chart patterns
+    </para> 
+</section>
+
+<section id="Consolidation">
+ <title>Consolidation</title> 
+    <para id="para_Consolidation">
+       <!-- Insert module text here -->
+Definition of consolidation
+    </para> 
+</section>
+
+<section id="Correction">
+ <title>Correction</title> 
+    <para id="para_Correction">
+       <!-- Insert module text here -->
+Definition of correction
+    </para> 
+</section>
+
+<section id="Harami_Cross">
+ <title>Cross (Harami Cross)</title> 
+    <para id="para_Harami_Cross">
+       <!-- Insert module text here -->
+Definition of Cross (Harami Cross)
+    </para> 
+</section>
+
+  
+  </content>
+  
+</document>

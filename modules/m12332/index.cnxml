@@ -1,0 +1,64 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: H</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>68aa3e5f-d13e-428c-8f94-b6b0a96576b9</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Hanging_man_Candlestick">Hanging man [Bearish Candlestick Pattern]</link></item>
+  <item><link target-id="Hammer_Candlestick">Hammer [Bullish Candlestick Pattern]</link></item>
+  <item><link target-id="Harami_Candlestick">Harami [Candlestick Pattern]</link></item>
+  <item><link target-id="Higher">Higher (HH: Higher High, HL: Higher Low)</link></item>
+</list>
+    </para> 
+
+<section id="Hanging_man_Candlestick">
+ <title>Hanging man [Bearish Candlestick Pattern]</title> 
+    <para id="para_Hanging_man">
+       <!-- Insert module text here -->
+The hanging man has a small body and a long wick (the body can be clear or filled in) and must occur after a significant uptrend. 
+    </para> 
+
+</section>
+
+<section id="Hammer_Candlestick">
+ <title>Hammer [Bullish Candlestick Pattern]</title> 
+    <para id="para_Hammer_Candlestick">
+       <!-- Insert module text here -->
+The hammer has a small body and a long wick (the body can be clear or filled in) and must occur after a significant downtrend. 
+    </para> 
+
+</section>
+
+<section id="Harami_Candlestick">
+ <title>Harami Candlestick [Bearish Candlestick Pattern]</title> 
+    <para id="para_Harami_Candlestick">
+       <!-- Insert module text here -->
+It occurs when a candle with a small body falls within the area of a larger body.
+    </para> 
+
+</section>
+
+<section id="Higher">
+ <title>Higher</title> 
+    <para id="para_HH">
+       <!-- Insert module text here -->
+A Higher High (HH) is a bar which High is higher than the previous bar's High.
+    </para> 
+    <para id="para_HL">
+       <!-- Insert module text here -->
+A Higher Low (HL) is a bar which Low is higher than the previous bar's Low.
+    </para> 
+
+</section>
+
+
+
+
+  
+  </content>
+  
+</document>

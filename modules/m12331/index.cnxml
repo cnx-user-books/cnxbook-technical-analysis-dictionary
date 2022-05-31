@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: M</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>86f9fc8e-0257-4922-a7fa-2b78a8eca148</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Bar">Bar (Up Bar, Down Bar, Inside Bar, Outside Bar)</link></item>
+</list>
+    </para> 
+
+<section id="Bar">
+ <title>Bar (Up Bar, Down Bar, Inside Bar, Outside Bar)</title> 
+    <para id="para_Up_Bar">
+       <!-- Insert module text here -->
+An Up Bar is a bar with a Higher High (HH) and a Higher Low (HL) than the previous bar. Next see <link document="m12334" target-id="Up_Trend">Up trend</link>.
+    </para> 
+
+    <para id="para_Down_Bar">
+       <!-- Insert module text here -->
+A Down Bar is a bar with a Lower High (LH) and Lower Low (LL) than the previous bar. Next see <link document="m12334" target-id="Down_Trend">Down trend</link>.
+    </para> 
+
+    <para id="para_Inside_Bar">
+       <!-- Insert module text here -->
+An inside bar has a narrower range relatively to the previous bar's range: its High is lower (LH: Lower High) than the previous bar's High and its Low is higher (HL: Higher Low) than the previous bar's Low.
+    </para> 
+
+
+    <para id="para_Outside_Bar">
+       <!-- Insert module text here -->
+An outside bar has a greater range relatively to the previous bar's range: its High is higher (HH: higher High) than the previous bar's High and its Low is lower (LL: Lower Low) than the previous bar's Low.
+    </para> 
+
+<para id="para_part_of_Bar">
+Part of <link document="m12328" target-id="Price_Action">Action (Price or Market Action)</link>
+</para>
+</section>
+  
+  </content>
+  
+</document>

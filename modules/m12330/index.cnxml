@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: E</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ac01c605-844d-45d8-b1d7-e1485e238372</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Bar">Engulfing (Engulfing Bar)</link></item>
+</list>
+    </para> 
+
+<section id="Bar">
+ <title>Engulfing (Engulfing Bar)</title> 
+
+    <para id="para_Engulfing_Bar">
+       <!-- Insert module text here -->
+An engulfing bar has a greater range relatively to the previous bar's range: its High is higher (HH: higher High) than the previous bar's High and its Low is lower (LL: Lower Low) than the previous bar's Low.
+    </para> 
+
+<para id="synonym_Engulfing_Bar">
+Synonym of <link document="m12329" target-id="Outside_Bar">Outside Bar</link>
+</para>
+
+</section>
+  
+  </content>
+  
+</document>

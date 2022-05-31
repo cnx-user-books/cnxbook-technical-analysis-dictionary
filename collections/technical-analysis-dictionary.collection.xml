@@ -1,0 +1,142 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10235</md:content-id>
+    <md:title>Technical Analysis Dictionary</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>8bb68a57-82e3-4c65-be85-6fae05bc2b76</md:uuid>
+<md:slug>technical-analysis-dictionary</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>A</md:title>
+      <col:content>
+        <col:module document="m12328"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>B</md:title>
+      <col:content>
+        <col:module document="m12331"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>C</md:title>
+      <col:content>
+        <col:module document="m12327"/>
+        <col:subcollection>
+          <md:title>Candlestick</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chart Patterns</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>D</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>E</md:title>
+      <col:content>
+        <col:module document="m12330"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>F</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>G</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>H</md:title>
+      <col:content>
+        <col:module document="m12332"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>I</md:title>
+      <col:content>
+        <col:module document="m12333"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>J</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>K</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>L</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>M</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>N</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>O</md:title>
+      <col:content>
+        <col:module document="m12329"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>P</md:title>
+      <col:content>
+        <col:module document="m12337"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Q</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>R</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>S</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>T</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>U</md:title>
+      <col:content>
+        <col:module document="m12334"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>V</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>W</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>X</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Y</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Z</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>

@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: D</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9f40e87a-57c0-47f5-989b-7d22cf4e2265</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Dark_Cloud_Cover_Candlestick">Dark Cloud Cover [Bearish Candlestick Pattern]</link></item>
+  <item><link target-id="Doji_Candlestick">Doji [Candlestick Pattern]</link></item>
+  <item><link target-id="Down_Bar">Down (Down Bar, Down Trend)</link></item>
+  <item><link target-id="Dragonfly_Doji_Candlestick">Dragonfly Doji [Candlestick Pattern]</link></item>
+
+</list>
+    </para> 
+
+<section id="Doji_Candlestick">
+ <title>Doji [Candlestick Pattern]</title> 
+    <para id="para_Doji_Candlestick">
+       <!-- Insert module text here -->
+The open and close are the same.
+    </para>
+ <figure id="figure_Doji_Candlestick">
+	    <title>A Doji Candlestick</title>
+	    <media id="idp1021888" alt=""><image src="http://cnx.rice.edu/Members/boursenovice/doji_candlestick.gif" mime-type="image/gif"/></media>
+	    <caption>A doji candlestick is interpreted by traders as indecision.</caption>
+	  </figure>
+	    
+</section>
+
+<section id="Down_Bar">
+ <title>Down (Down Bar, Down Trend)</title> 
+    <para id="para_Down_Bar">
+       <!-- Insert module text here -->
+An Down Bar is a bar with a Lower Low (LL) and a Lower High (LH) than the previous bar.
+    </para>
+    <para id="para_Up_Trend">
+       <!-- Insert module text here -->
+A Down Trend is composed of Down Bars.
+    </para>
+
+<para id="part_of_Down_Bar">
+Part of <link document="m12331" target-id="Bar">Action (Price or Market Action)</link>  
+</para>
+</section>
+
+
+
+  
+  </content>
+  
+</document>

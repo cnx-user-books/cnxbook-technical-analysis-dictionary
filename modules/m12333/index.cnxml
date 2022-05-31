@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Technical Analysis :: I</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6f7665ca-da19-4247-b975-ba5ed68a8de1</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para_01">
+       <!-- Insert module text here -->
+<list id="list_01">
+  <title>Words list:</title>
+  <item><link target-id="Inside_Bar">Inside (Inside Bar)</link></item>
+</list>
+    </para> 
+
+<section id="Inside_Bar">
+ <title>Inside Bar</title> 
+    <para id="para_Inside_Bar">
+       <!-- Insert module text here -->
+An inside bar has a narrower range relatively to the previous bar's range: its High is lower (LH: Lower High) than the previous bar's High and its Low is higher (HL: Higher Low) than the previous bar's Low.
+    </para> 
+</section>
+
+
+
+
+  
+  </content>
+  
+</document>
