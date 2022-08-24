@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="bourse novice">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10235</md:content-id>
     <md:title>Technical Analysis Dictionary</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>8bb68a57-82e3-4c65-be85-6fae05bc2b76</md:uuid>
-<md:slug>technical-analysis-dictionary</md:slug>
-</metadata>
+    <md:slug>technical-analysis-dictionary</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>A</md:title>
